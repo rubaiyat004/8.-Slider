@@ -108,6 +108,7 @@ h1::after{
     background: #fff;
     border-radius: 50%;
     cursor: pointer;
+    filter:grayscale(1);
 }
 ::selection{
     background: #9f4db9;
